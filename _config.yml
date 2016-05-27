@@ -1,6 +1,6 @@
 name: Chad Thiele
 favicon: null
-layout_spectrum: 0.2387
+layout_spectrum: 1
 typography_spectrum: 0.6779751966241747
 cta:
   domain: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
+    - '#030301'
+    - '#706e6f'
+    - '#2b2724'
+    - '#e39d91'
+    - '#e6d3b5'
   brandStrength: 0.8617726953234524
   lightness: 0.9109739956911653
   saturation: 0.9354194782208651
