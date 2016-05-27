@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Chad Thiele]]></title>
+        <description><![CDATA[Chad Thiele]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 27 May 2016 07:02:29 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Tori no Yokota is a fantastic izakaya in Tachikawa - five minutes from the train station - specializing in hot pot style dishes. </p>]]></description>
+            <link>undefinedtori-no-yokota-is-a-fantastic-izakaya-in-tachikawa-five-mi/index.html</link>
+            <guid isPermaLink="false">6312db2a-0129-44bf-a89b-db8e78769cfd</guid>
+            <pubDate>Fri, 27 May 2016 07:01:14 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
